@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Brando</h1>
 <h3 align="center">A passionate web developer from the Philippines</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://f5-studio.com/wp-content/uploads/2018/05/website-from-scratch.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandoyts&label=Profile%20views&color=0e75b6&style=flat" alt="brandoyts" /> </p>
 
