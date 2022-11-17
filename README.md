@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brando</h1>
 <h3 align="center">A passionate web developer from the Philippines</h3>
 
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed">
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAS/coding.gif" width="480" height="360" frameBorder="0" class="giphy-embed">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandoyts&label=Profile%20views&color=0e75b6&style=flat" alt="brandoyts" /> </p>
 
