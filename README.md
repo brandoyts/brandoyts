@@ -9,8 +9,6 @@
   
 
 - 👨‍💻 All of my projects are available at https://brandoendona.vercel.app/
-- 💬 Ask me about javascript, react, php, laravel  
-  
 
 <br/>  
 
