@@ -1,6 +1,4 @@
-# Brando
-
-A full stack developer
+# 👋 Hi, im Brando 
 
 ### ⚙️Languages and tools
 
